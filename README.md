@@ -14,7 +14,7 @@ Your instructor should have communicated which method to use for this project du
 - [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`.
 - [ ] Check to see that Codegrade has accepted your git submission.
 
-#### Option B - Pull Request
+#### Option B - Pull Request test
 
 - [ ] Fork and clone the repository.
 - [ ] Implement your project in a `firstname-lastname` branch.
